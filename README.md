@@ -5,3 +5,4 @@ Demo project for portfolio using AWS and ReactJS
 
 TBD
 Added Babel and React
+Codepipeline build
